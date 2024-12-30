@@ -1721,7 +1721,8 @@ graph TD;
     A[Usuário acessa a calculadora] --> B[Seleciona serviços do Azure];
     B --> C[Configura requisitos];
     C --> D[Obtém custo estimado];
-    D --> E[Exporta relatório para análise].
+    D --> E[Exporta relatório para análise];
+
 ```
 
 ---
